@@ -1,3 +1,10 @@
-# LeshaBlueness
-
-hello this is me lesha blueness
+# Lesha Blueness
+!image img{
+  border-radius: 50%;
+}
+<body>
+  <div class="image">
+    <img src="https://github.com/AlexeyPudoff/LeshaBlueness/assets/105070365/8b22d0f8-f5df-4597-939d-dd98aea290a9" alt="avatar">    
+  </div>
+</body>
+<P align="right">Hello. This is me, Lesha Blueness! You definitely don't know who I am. I'm a male.
